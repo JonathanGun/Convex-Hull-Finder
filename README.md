@@ -5,20 +5,20 @@
 (Optional) Install [Processing](https://processing.org/download/) on your device in order to edit the source code and compile this program yourself.
 
 ## Running
-Go to release tab then click:
+Go to release tab then download, unzip, and install:
 ### Windows
 ```
-/bin/application.windows<32 or 64-bit>/main.exe
+application.windows<32 or 64-bit>
 ```
 
 ### Linux
 ```
-/bin/application.linux<32 or 64-bit>/main
+application.linux<32 or 64-bit>
 ```
 
 ### Android
 ```
-/bin/application.android/main.apk
+main.apk
 ```
 
 ## Editing and Compiling
