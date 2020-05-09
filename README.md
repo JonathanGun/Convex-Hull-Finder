@@ -5,7 +5,7 @@
 (Optional) Install [Processing](https://processing.org/download/) on your device in order to edit the source code and compile this program yourself.
 
 ## Running
-Go to release tab then download, unzip, and install:
+Download suitable [release](https://github.com/JonathanGun/Convex-Hull-Finder/releases), then unzip and install:
 ### Windows
 ```
 application.windows<32 or 64-bit>
